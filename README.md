@@ -75,7 +75,7 @@ departments ──< employees >── employee_projects ──< projects
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Database**: MySQL 8.0+
 - **Concepts**: ERD Design, Normalization, Foreign Keys, Subqueries, JOINs, Window Functions
